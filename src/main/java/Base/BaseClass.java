@@ -8,6 +8,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 
 //Miqdad Aljilwah
+//this is changes in second branch
 
 public class BaseClass {
     public WebDriver driver;
